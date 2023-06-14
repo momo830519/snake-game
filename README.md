@@ -1,4 +1,4 @@
-# ts-webpack-example
+# snake-game
 
 ## 快速開始
 ```
@@ -10,4 +10,4 @@ npm run dev
 ## 運行測試
 ```
 npm run test
-``` # snake-game
+```
