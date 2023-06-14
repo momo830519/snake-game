@@ -2,8 +2,7 @@
     "name": "root",
     "private": true,
     "author": {
-        "name": "nilsonweng",
-        "email": "nilsonweng@moneydj.com"
+        "name": "momo830519"
     },
     "workspaces": [
         "packages/*"
